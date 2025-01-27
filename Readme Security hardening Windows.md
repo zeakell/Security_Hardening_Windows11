@@ -1,4 +1,4 @@
-# Security_Hardening_Windows11
+# Security_Hardening_for_Windows_11
 Dislamer!!!
 implementasi Vulnerability Assessment &amp; Security Hardening untuk Windows 11 menggunakan source dari thirdparty yaitu:
 - Vulnerability Assessment source from Vulmap "https://github.com/vulmon/Vulmap/blob/master/README.md"
